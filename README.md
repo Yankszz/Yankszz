@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ryan Viana Batista, tenho 16 anos e sou natural de São Paulo. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Yankszz](https://www.youtube.com/@Yankszz)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Yankszz, tenho 16 anos e sou natural de São Paulo. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Yankszz](https://www.youtube.com/@Yankszz)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[yankszz_pvkk](https://www.instagram.com/yankszz_pvkk/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Yankszz?sub_confirmation=1">
